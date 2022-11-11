@@ -1,0 +1,5 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "security.workspace.trust.untrustedFiles":"open",
+    "php.validate.executablePath": ""
+}
